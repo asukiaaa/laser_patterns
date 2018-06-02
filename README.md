@@ -3,7 +3,7 @@ My designs to cut out with using laser cutter.
 
 Name | Explanation
 ---- | ----
-[kagotos](./kagotos.svg) | A frame design for a buscket type robot.
+[kagotos](./kagotos) | A frame design for a buscket type robot.
 
 # References
 - [Ubuntuでレーザーカッターのジョブを出力する方法](http://asukiaaa.blogspot.jp/2016/12/ubuntu.html)
