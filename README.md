@@ -3,8 +3,9 @@ My designs to cut out with using laser cutter.
 
 Name | Explanation
 ---- | ----
-[kagotos](./kagotos) | A frame design for a buscket type robot.
+[drawer_plate](./drawer_plate) | Design of plate to label drawer.
 [epaper_board](./epaper_board) | Design of plates to mount epaper module and Raspberry Pi.
+[kagotos](./kagotos) | A frame design for a buscket type robot.
 
 # Epilog Laser setting memo
 
